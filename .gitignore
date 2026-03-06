@@ -1,0 +1,8 @@
+Crimes_-_2019_20231112.csv
+merged_crime_weather_2019.csv
+merged_crime_weather_2019_fixed.csv
+*.docx
+*.pdf
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
