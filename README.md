@@ -31,8 +31,8 @@ SQL-based analysis of how weather conditions (temperature, precipitation, season
 └── README.md
 ```
 
-> **Note:** The Chicago crime dataset (59 MB) is excluded from this repo due to size.
-> Download it from the [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2) and place it in the project root as `Crimes_-_2019_20231112.csv`.
+> **Note:** The Chicago crime dataset (`Crimes_-_2019_20231112.csv`, ~59 MB) is committed in this repo for reproducibility.
+> Source: [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2).
 
 ## How to Run
 
